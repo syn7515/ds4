@@ -24,3 +24,12 @@ main li{
 p{
     margin: 0px 0px 20px 0px;
 }
+
+nav .active{
+    color: white;
+    background-color: #333;
+}
+
+nav .active:visited{
+    color: white;
+}
